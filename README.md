@@ -10,7 +10,7 @@ Your report will be updated on the complaint portal and you'll get a confirmatio
 
 ![tvvitterbot](https://user-images.githubusercontent.com/48534858/123545474-cfa87000-d775-11eb-88f2-c47f2425645e.png)
 
-Click here to see the demo of [Complaints Admin Panel](https://alen001.github.io/TwitterCop/) and Login with any credentials() to see the tweets reported
+Demo of [Complaints Admin Panel](https://alen001.github.io/TwitterCop/) and Login with any credentials() to see the tweets reported
 
 
 ![qb](https://user-images.githubusercontent.com/48534858/123549008-cd99dd80-d784-11eb-8bd1-0ee54d8c552a.png)
