@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "twittercop",
+  "private_key_id": "87dxc3bxxxxx3b26f6xxxxxxxxxc69x6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMxxxxxxxAxxxxxxxxxhidw0KFO4OJJxxx3a\nJvmKFDzxyZQ3yqfK/LXk19kIYhkHDOhq0xxxxxYnKvNSh4vVSqZJbHsPZ3t5w8NsqGKTcTahX3Wa+LxxGgr3hTC51r6eOO00DUSAYPolWNfhTXtbOVQMW3qwLvq204g\nhcO3XX8BahnLl2opuPQOE9Sb4e0tapk/IdL+sN2XOY+q7NBx1v3WQJAwKizx4dXv\nMXB9cfxnAgMBAAECggEAFmfx9h9CjSKSWi9F2khb7DuEdqIHY7iczTXg4jgG5PfJ\nnVWXybejv9tkZANeWK+Xca6bxuwlTobLzwQcx0ktusz6QkHYjq8fuF7kKZsDg8f2\n50ilDcPm32lKxTiTV6ggFmuMuP4bt9KS/jXwNE2He/7qcJvwGJALY8/8Jh07o2H3\n3kq0hqvUxoTweCzhNiSarCg0qAYtmjGmfaR/Gok1KLMLeXQX6jDyYL7hP+3JiEqb\n/QQd8TSHcmxY+aGTDBP7Sz/ivBwKmiNNoTtmicWjVVopO+buN6Dgo9qyTX8qTxAM\nXsACeJJbv9vMxu/Zii16spteIwbSnhmSAWrWvZIG0QKBgQDFk6j9PJ7JY8Cmuq9N\nDeXdefzbBhg3b9Umxj31rb8TIXFREUr97s0LwR0cnI3K+DQCBjLw4f+xAstMZG/E\nARPFHa5o4CRjzmcu28OVUh9qBRTp88sd+2+3xdqBh5yJPcSYjSZPIMQBxof/eUF1\n+B0U1lAK9jTIUk6TQ+rm0ys51QKBgQC/mtNodokeGkTo5kf5dLkmJNtwFRUIOKa4\nbGg3KRuOZfASEtFdTV9eb5FuJuPqFXIySA6Sk95VRUkZjzRCzjXFaxhkYLKMcNx8\nyUuLo5M7bLJyC6oBqS3ZhiprXAGKjKRrQEflnIZLsmMsnGJh5kmJTOsWXDjK2EmT\nv7k0hwpfSwKBgChr7UbiABpzrhZuWy8IiN6m9nRY6ttspc8o/8Qjp9PiI6zSPOV2\n1bxx5eLUpK3B2eIQIpvloMo2KCGY6sTO85yAVg5ezRMeRz3u+DS0eHjYUU8L8aJQ\nrqqKcAnQFNZ/LJmJRy0pJvC2DVzXEe1wtYJt1jJn7KSPMkQuwQA4c7+BAoGAV3u2\nmRS+KHtwCTLTnAd6XfsoIjXOA5HyNXRx5PWk+lB625Wx+DrSl4izSysAlymxmVmj\nJbPUKPTYmo3zG6mRjZEHcxVfkJYbZfJ2xswp9lD77Ox8dAOtxormpVw96+epTrrr\n2N+txbQuafkBRpfh7YmsMOpsl9lHRumcA2rBBp8CgYEAgPV2jDyGld7FSHQizpS0\nu1z4udb7dTYkMiQXCnDaTdgFkEdtMfdKNgK06tRCUM5Ga1PKfhcVbWtA5kPzOOWK\nHS7Z+02fGjsp9ovJYJNfwUFxi3uu8hR3V6giu1R2JPQzmXArXE2azPX9r0qbpchL\nnZ/l3Sit53pFW2avfqvrTc4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "planx-534@twittercop.iam.gserviceaccount.com",
+  "client_id": "xxxxxxxxxx518674792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/planb-534%40twittercop.iam.gserviceaccount.com"
+}
